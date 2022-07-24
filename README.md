@@ -1,6 +1,6 @@
 # Pointers in C
 
-A pointers holds a memory address
+A pointer holds a memory address
 
 ```c
 #include <stdio.h>
